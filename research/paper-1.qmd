@@ -5,7 +5,7 @@ author:
   - Amado, M. A.
   - Marti, M.
   - Perez-Reyna, D. 
-date: "2024"
+date: "2025"
 ---
 
 We examine the granular transmission of U.S. monetary policy shocks to deviations from uncov-
