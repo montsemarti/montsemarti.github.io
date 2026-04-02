@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to reach out at montserrat_marti@brown.edu"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Montserrat Marti",
@@ -28,6 +21,13 @@
     "text": "Experience\nI worked as a Research Assistant at the Central Bank of Chile."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out at montserrat_marti@brown.edu"
+  },
+  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
@@ -46,6 +46,6 @@
     "href": "index.html",
     "title": "Montserrat Marti",
     "section": "",
-    "text": "I am a first-year PhD student in Economics at Brown University. My research interests are in applied and labor economics.\nPlease feel free to get in touch!"
+    "text": "I am a first-year PhD student in Economics at Brown University. My research interests are in applied and labor economics."
   }
 ]
