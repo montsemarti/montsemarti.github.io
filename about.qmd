@@ -2,7 +2,7 @@
 title: "Montserrat Marti"
 about:
   template: trestles
-  image: profile.JPG
+  image: profile.jpg
   links:
     - icon: twitter
       text: twitter
