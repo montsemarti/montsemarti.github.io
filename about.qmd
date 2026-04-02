@@ -1,8 +1,8 @@
 ---
-title: "Simone"
+title: "Montserrat Marti"
 about:
   template: trestles
-  image: profile.jpg
+  image: profile.JPG
   links:
     - icon: twitter
       text: twitter
@@ -18,12 +18,12 @@ about:
       href: https://scholar.google.com
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+I am a first-year PhD student in Economics at Brown University. My research interests are in applied and labor economics.
 
 ## Education
 
-Where I studied
+I completed both my undergraduate degree and my Master's in Economic Analysis at the Universidad de Chile. I am currently pursuing my PhD in Economics at Brown University.
 
 ## Experience
 
-What I've done
+I worked as a Research Assistant at the Central Bank of Chile.

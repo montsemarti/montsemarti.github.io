@@ -6,6 +6,7 @@ website:
   title: "Home"
   favicon: logo.png
   navbar:
+    background: dark
     left:
       - href: about.qmd
         text: About
@@ -13,6 +14,8 @@ website:
         text: Research
       - href: cv.pdf
         text: CV
+      - href: contact.qmd
+        text: Contact  
 
 format:
   html:

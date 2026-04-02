@@ -1,51 +1,51 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out at montserrat_marti@brown.edu"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Montserrat Marti",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "I am a first-year PhD student in Economics at Brown University. My research interests are in applied and labor economics."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
+    "title": "Montserrat Marti",
     "section": "Education",
-    "text": "Education\nWhere I studied"
+    "text": "Education\nI completed both my undergraduate degree and my Master’s in Economic Analysis at the Universidad de Chile. I am currently pursuing my PhD in Economics at Brown University."
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Montserrat Marti",
     "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "My First Paper",
-    "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "Experience\nI worked as a Research Assistant at the Central Bank of Chile."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Heterogeneous UIPDs Across Firms: Spillovers from U.S. Monetary Policy Shocks.\n\n\n\n\n\n\n\n\nDec 31, 2023\n\n\nAcosta-Henao, M., Amado, M. A., Marti, M., Perez-Reyna, D.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "objectID": "research/paper-1.html",
+    "href": "research/paper-1.html",
+    "title": "Heterogeneous UIPDs Across Firms: Spillovers from U.S. Monetary Policy Shocks.",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "We examine the granular transmission of U.S. monetary policy shocks to deviations from uncov- ered interest rate parity (UIPDs) in emerging economies. Using data from Chile that accounts for firm-bank relationships and time-variant firm and bank characteristics, we find that: (1) Federal funds rate (FFR) shocks increase banks’ foreign borrowing costs; (2) these higher costs disproportionately affect small firms, raising their UIPDs more than large firms; (3) this size- differentiated impact arises from higher interest rates in domestic currency faced by small firms; (4) in contrast, interest rates on dollar loans respond uniformly across firms; (5) no differential effect is observed on loan quantities, indicating an active role of credit supply and demand. A small open economy model of corporate default and heterogeneous firms, borrowing in different currencies, rationalizes these findings. In the model, higher FFR reduces the cost of default relative to repayment more for small than large firms."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Montserrat Marti",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I am a first-year PhD student in Economics at Brown University. My research interests are in applied and labor economics.\nPlease feel free to get in touch!"
   }
 ]

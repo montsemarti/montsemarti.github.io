@@ -1,1 +1,5 @@
 /* css styles */
+.quarto-about-jolla .about-image {
+  object-position: center top;
+}
+

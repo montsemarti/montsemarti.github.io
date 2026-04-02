@@ -6,4 +6,3 @@ listing:
     - "*.qmd"
 ---
 
-All of my research projects.

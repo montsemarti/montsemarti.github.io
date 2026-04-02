@@ -1,8 +1,8 @@
 ---
-title: "Simone"
+title: "Montserrat Marti"
 about:
   template: jolla
-  image: profile.jpg
+  image: profile.JPG
   links:
     - icon: twitter
       text: twitter
@@ -18,8 +18,4 @@ about:
       href: https://scholar.google.com
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
-
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
-
-Please feel free to get in touch!
+I am a first-year PhD student in Economics at Brown University. My research interests are in applied and labor economics.
